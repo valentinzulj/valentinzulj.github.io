@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/ifau
 venue: "Institute for Evaluation of Labour Market and Education Policy."
-date: 2023
+date: 29-03-2023
 location: "Uppsala, Sweden"
 ---
 

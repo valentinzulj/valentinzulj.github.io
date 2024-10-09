@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: talks/review_1
 venue: "Uppsala University, Department of Statistics."
-date: 2020
+date: 2021-09-29
 location: "Uppsala, Sweden."
 ---
 
