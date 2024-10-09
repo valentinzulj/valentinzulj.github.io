@@ -3,9 +3,9 @@ title: "Can model averaging improve propensity score based estimation of average
 collection: talks
 type: "Talk"
 permalink: /talks/ifau
-venue: "Institute for Evaluation of Labour Market and Education Policy."
+venue: "Institute for Evaluation of Labour Market and Education Policy"
 date: 29-03-2023
-location: "Uppsala, Sweden"
+location: "Uppsala, Sweden."
 ---
 
 
