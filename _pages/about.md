@@ -20,7 +20,7 @@ Feel free to get in touch by sending an e-mail to `firstname`.`surname`@`statist
 Works in progress
 ======
 + *Frequentist Model Averaging of Generalized Linear Models with Penalization*, with **Shaobo Jin**.
-+ *Can Model Averaging Always Improve Propensity Score Bases Estimation of Average Treatment Effects?*, with **Shaobo Jin**. *R&R from Epidemiologic Methods*.
-+ *Frequentist Oracle Properties of Bayesian Stacking Estimators*, with **Shaobo Jin** and **Måns Magnusson**. *Submitted* [[arXiv preprint](https://arxiv.org/abs/2411.01884)].
++ *Can Model Averaging Always Improve Propensity Score Bases Estimation of Average Treatment Effects?*, with **Shaobo Jin**. R&R from Epidemiologic Methods.
++ *Frequentist Oracle Properties of Bayesian Stacking Estimators*, with **Shaobo Jin** and **Måns Magnusson** [[arXiv preprint](https://arxiv.org/abs/2411.01884)].
 + *Gradient Based Estimation of Candidate Approximations for
 Frequentist Model Averaging (working title)*, with **Wendun Wang**.
